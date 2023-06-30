@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstGItProject</string>
+    <string name="git_hub">Мій перший GIT HUB проект</string>
 </resources>
